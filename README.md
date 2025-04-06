@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/rishhavv">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/rishhavv">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/rishhavv">
@@ -56,6 +56,29 @@
 </div>
 
 <br/>
+
+## 🎮 Interactive Snake Game
+
+<p align="center">
+  <img src="https://github.com/rishhavv/rishhavv/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/rishhavv/your-llm-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=your-llm-project&theme=radical" />
+  </a>
+  <a href="https://github.com/rishhavv/your-deeptech-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=your-deeptech-project&theme=radical" />
+  </a>
+</div>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rishhavv&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ## 📊 GitHub Stats
 
