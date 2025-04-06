@@ -60,11 +60,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/rishhavv/your-llm-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=your-llm-project&theme=radical" />
+  <a href="https://github.com/rishhavv/distributed-task-scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=rishhavv/distributed-task-scheduler=&theme=radical" />
   </a>
-  <a href="https://github.com/rishhavv/your-deeptech-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=your-deeptech-project&theme=radical" />
+  <a href="https://github.com/JIIT-PUSH/EduCloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=JIIT-PUSH/EduCloud&theme=radical" />
   </a>
 </div>
 
