@@ -61,10 +61,10 @@
 
 <div align="center">
   <a href="https://github.com/rishhavv/distributed-task-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=rishhavv/distributed-task-scheduler=&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=distributed-task-scheduler&theme=radical" alt="Distributed Task Scheduler" />
   </a>
   <a href="https://github.com/JIIT-PUSH/EduCloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishhavv&repo=JIIT-PUSH/EduCloud&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JIIT-PUSH&repo=EduCloud&theme=radical" alt="EduCloud" />
   </a>
 </div>
 
