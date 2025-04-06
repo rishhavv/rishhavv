@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rishhavv">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/rishhavv">
+  <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/rishhavv">
@@ -57,12 +57,6 @@
 
 <br/>
 
-## 🎮 Interactive Snake Game
-
-<p align="center">
-  <img src="https://github.com/rishhavv/rishhavv/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -80,12 +74,57 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=rishhavv&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-## 📊 GitHub Stats
+## 📚 Book Recommendations
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishhavv&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishhavv&theme=radical" alt="GitHub Streak"/>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.goodreads.com/book/show/17978290-elon-musk">
+          <img src="https://images-na.ssl-images-amazon.com/images/P/1591847935.01.L.jpg" width="150" alt="Elon Musk"/>
+          <br/>
+          <sub><b>Elon Musk</b></sub>
+          <br/>
+          <sub>Ashlee Vance</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.goodreads.com/book/show/58784475-liftoff">
+          <img src="https://images-na.ssl-images-amazon.com/images/P/0062978291.01.L.jpg" width="150" alt="Liftoff"/>
+          <br/>
+          <sub><b>Liftoff</b></sub>
+          <br/>
+          <sub>Eric Berger</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.goodreads.com/book/show/27209436-shoe-dog">
+          <img src="https://images-na.ssl-images-amazon.com/images/P/1501135910.01.L.jpg" width="150" alt="Shoe Dog"/>
+          <br/>
+          <sub><b>Shoe Dog</b></sub>
+          <br/>
+          <sub>Phil Knight</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.goodreads.com/book/show/23499283-designing-data-intensive-applications">
+          <img src="https://images-na.ssl-images-amazon.com/images/P/1449373321.01.L.jpg" width="150" alt="Designing Data-Intensive Applications"/>
+          <br/>
+          <sub><b>Designing Data-Intensive Applications</b></sub>
+          <br/>
+          <sub>Martin Kleppmann</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📖 Recommend Me Books
+
+<div align="center">
+  <a href="https://github.com/rishhavv/rishhavv/issues/new?template=book-recommendation.md">
+    <img src="https://img.shields.io/badge/Recommend_Books-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Recommend Books"/>
+  </a>
 </div>
 
 <br/>
